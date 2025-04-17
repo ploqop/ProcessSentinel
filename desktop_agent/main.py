@@ -1,3 +1,5 @@
+# TODO: разбить по файликам
+# TODO: кодировка
 import threading
 import time
 import json
