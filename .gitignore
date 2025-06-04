@@ -54,5 +54,5 @@ python-env-tools/**
 python_files/tests/*/.data/.coverage*
 python_files/tests/*/.data/*/.coverage*
 src/testTestingRootWkspc/coverageWorkspace/.coverage
-.sqlite3
+*.sqlite3
 __pycache__/
