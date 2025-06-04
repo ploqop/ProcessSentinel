@@ -175,7 +175,7 @@ class SecurityPolicy:
                 f"{self.server_url}/api/report/",
                 json={
                     'client_uuid': self.client_uuid,
-                    'event_type': 'violation',
+                    'event_type': 'policy_violation',
                     'timestamp': datetime.now().isoformat(),
                     'process_name': process_name,
                     'process_id': pid
@@ -189,7 +189,7 @@ class SecurityPolicy:
                         f"{self.server_url}/api/report/",
                         json={
                             'client_uuid': self.client_uuid,
-                            'event_type': 'violation',
+                            'event_type': 'policy_violation',
                             'timestamp': datetime.now().isoformat(),
                             'process_name': process_name,
                             'process_id': pid

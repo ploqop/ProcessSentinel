@@ -18,6 +18,10 @@
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\desktop_agent\\config\\__pycache__\\config.cpython-313.pyc',
    'DATA'),
+  ('config\\config.json',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\desktop_agent\\config\\config.json',
+   'DATA'),
   ('config\\config.py',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\desktop_agent\\config\\config.py',
@@ -1783,13 +1787,13 @@
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\PIL\\_version.py',
    'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Program Files\\Python313\\Lib\\tracemalloc.py',
-   'PYMODULE'),
+  ('_py_abc', 'C:\\Program Files\\Python313\\Lib\\_py_abc.py', 'PYMODULE'),
   ('stringprep',
    'C:\\Program Files\\Python313\\Lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc', 'C:\\Program Files\\Python313\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program Files\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
   ('config.config',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\desktop_agent\\config\\config.py',
@@ -2505,6 +2509,10 @@
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\desktop_agent\\config\\__pycache__\\config.cpython-313.pyc',
    'DATA'),
+  ('config\\config.json',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\desktop_agent\\config\\config.json',
+   'DATA'),
   ('config\\config.py',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\desktop_agent\\config\\config.py',
@@ -2526,33 +2534,33 @@
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
    'ipsum.txt',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
-   'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
-   'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
-   'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
    'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
    'DATA'),
   ('certifi\\cacert.pem',
    'C:\\Studying\\диплом '
@@ -2562,34 +2570,6 @@
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
-  ('cryptography-42.0.0.dist-info\\METADATA',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\METADATA',
-   'DATA'),
-  ('cryptography-42.0.0.dist-info\\LICENSE.APACHE',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\LICENSE.APACHE',
-   'DATA'),
-  ('cryptography-42.0.0.dist-info\\WHEEL',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\WHEEL',
-   'DATA'),
-  ('cryptography-42.0.0.dist-info\\RECORD',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\RECORD',
-   'DATA'),
-  ('cryptography-42.0.0.dist-info\\top_level.txt',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\top_level.txt',
-   'DATA'),
-  ('cryptography-42.0.0.dist-info\\LICENSE.BSD',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\LICENSE.BSD',
-   'DATA'),
-  ('cryptography-42.0.0.dist-info\\INSTALLER',
-   'C:\\Studying\\диплом '
-   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\INSTALLER',
-   'DATA'),
   ('cryptography-42.0.0.dist-info\\LICENSE',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\LICENSE',
@@ -2597,6 +2577,34 @@
   ('cryptography-42.0.0.dist-info\\REQUESTED',
    'C:\\Studying\\диплом '
    'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\METADATA',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\top_level.txt',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\WHEEL',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\LICENSE.APACHE',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\INSTALLER',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\LICENSE.BSD',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-42.0.0.dist-info\\RECORD',
+   'C:\\Studying\\диплом '
+   'чупашки\\ProcessSentinel\\.venv\\Lib\\site-packages\\cryptography-42.0.0.dist-info\\RECORD',
    'DATA'),
   ('base_library.zip',
    'C:\\Studying\\диплом '

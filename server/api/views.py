@@ -508,8 +508,12 @@ def get_violation_logs(request, client_uuid):
                 status=status.HTTP_403_FORBIDDEN
             )
         
-        # Получаем логи нарушений
-        logs = Log.objects.filter(client=client).order_by('-timestamp')
+        # Получаем логи нарушений, исключая heartbeats
+        logs = Log.objects.filter(
+            client=client,
+            event__in=['policy_violation', 'process_blocked']  # Only get actual violations
+        ).order_by('-timestamp')
+        
         serializer = LogSerializer(logs, many=True)
         
         return Response(serializer.data)
@@ -742,9 +746,9 @@ def process_report(request):
                 }
             })
             
-        elif event_type == 'violation':
+        elif event_type in ['violation', 'policy_violation']:  # Handle both old and new event types
             process_name = request.data.get('process_name')
-            pid = request.data.get('pid')
+            pid = request.data.get('process_id')
             
             if not process_name or not pid:
                 return Response(
@@ -754,7 +758,7 @@ def process_report(request):
             
             Log.objects.create(
                 client=client,
-                event='policy_violation',
+                event='policy_violation',  # Always use policy_violation for consistency
                 data={
                     'process_name': process_name,
                     'pid': pid
